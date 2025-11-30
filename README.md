@@ -1,4 +1,4 @@
-# Laboratoare Python - Master
+# Laboratoare Python Master
 
 Colecția completă a laboratoarelor de Python de la facultate.
 
